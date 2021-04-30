@@ -1,5 +1,9 @@
 - 👋 Hi, I’m @devinhadley
-- 🌱 I’m currently learning C++
+- 🌱 I enjoy all things programming. 
+- Python
+- Java
+- JavaScript
+- Learning C++
 - 📫 How to reach me devinhadley4@gmail.com
 
 <!---
