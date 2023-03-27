@@ -1,10 +1,5 @@
-- 👋 Hi, I’m @devinhadley
-- Python
-- Java
-- JavaScript
-- Learning C++
-- 📫 How to reach me: devinhadley4@gmail.com
+- Software Engineering @ Cal Poly SLO
 
 <!---
-www.courseconnect.net
+www.devinhadley.com
 --->
