@@ -1,8 +1,9 @@
-- Software Engineering @ Cal Poly SLO
+
 
 <!---
 www.devinhadley.com
 --->
+Software Engineering @ Cal Poly SLO
 
 Creator of [GreekMate.io](https://greekmate.io)
 
